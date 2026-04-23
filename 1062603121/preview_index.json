@@ -1,98 +1,8 @@
 {
   "qq_number": "2186255540",
   "group_number": "1062603121",
-  "updated_at": "2026-04-22T16:19:18.574144",
+  "updated_at": "2026-04-23T15:52:37.429074",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの心绪蓝海.bds",
-      "thumb": "Xpiの心绪蓝海.bds_py_26_light_thumb.png",
-      "full": "Xpiの心绪蓝海.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの素灰.bds",
-      "thumb": "Xpiの素灰.bds_py_26_light_thumb.png",
-      "full": "Xpiの素灰.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの熊猫头闷.bds",
-      "thumb": "Xpiの熊猫头闷.bds_py_26_light_thumb.png",
-      "full": "Xpiの熊猫头闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの布丁狗.bds",
-      "thumb": "Xpiの布丁狗.bds_py_26_light_thumb.png",
-      "full": "Xpiの布丁狗.bds_py_26_light.png"
-    },
-    {
-      "name": "熊的回忆季",
-      "file": "音-熊的回忆季.bds",
-      "thumb": "音-熊的回忆季.bds_py_26_light_thumb.png",
-      "full": "音-熊的回忆季.bds_py_26_light.png"
-    },
-    {
-      "name": "音の冬季约定",
-      "file": "音の冬季约定彩底.bds",
-      "thumb": "音の冬季约定彩底.bds_py_26_light_thumb.png",
-      "full": "音の冬季约定彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "萌萌妹宝",
-      "file": "音的萌萌妹宝.bds",
-      "thumb": "音的萌萌妹宝.bds_py_26_light_thumb.png",
-      "full": "音的萌萌妹宝.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの记忆存鱼档闷.bds",
-      "thumb": "Xpiの记忆存鱼档闷.bds_py_26_light_thumb.png",
-      "full": "Xpiの记忆存鱼档闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの纯洁天使.bds",
-      "thumb": "Xpiの纯洁天使.bds_py_26_light_thumb.png",
-      "full": "Xpiの纯洁天使.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの蘸酱狗.bds",
-      "thumb": "Xpiの蘸酱狗.bds_py_26_light_thumb.png",
-      "full": "Xpiの蘸酱狗.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの记忆存鱼档脆.bds",
-      "thumb": "Xpiの记忆存鱼档脆.bds_py_26_light_thumb.png",
-      "full": "Xpiの记忆存鱼档脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの灰色心情.bds",
-      "thumb": "Xpiの灰色心情.bds_py_26_light_thumb.png",
-      "full": "Xpiの灰色心情.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの玉桂狗彩.bds",
-      "thumb": "Xpiの玉桂狗彩.bds_py_26_light_thumb.png",
-      "full": "Xpiの玉桂狗彩.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの熊猫头脆.bds",
-      "thumb": "Xpiの熊猫头脆.bds_py_26_light_thumb.png",
-      "full": "Xpiの熊猫头脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの简简灰.bds",
-      "thumb": "Xpiの简简灰.bds_py_26_light_thumb.png",
-      "full": "Xpiの简简灰.bds_py_26_light.png"
-    },
     {
       "name": "萌萌妹宝",
       "file": "音的萌萌妹宝.bdi",
@@ -194,6 +104,96 @@
       "file": "音の冬季约定彩底.bdi",
       "thumb": "音の冬季约定彩底.bdi_py_26_light_thumb.png",
       "full": "音の冬季约定彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの心绪蓝海.bds",
+      "thumb": "Xpiの心绪蓝海.bds_py_26_light_thumb.png",
+      "full": "Xpiの心绪蓝海.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの素灰.bds",
+      "thumb": "Xpiの素灰.bds_py_26_light_thumb.png",
+      "full": "Xpiの素灰.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの熊猫头闷.bds",
+      "thumb": "Xpiの熊猫头闷.bds_py_26_light_thumb.png",
+      "full": "Xpiの熊猫头闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの布丁狗.bds",
+      "thumb": "Xpiの布丁狗.bds_py_26_light_thumb.png",
+      "full": "Xpiの布丁狗.bds_py_26_light.png"
+    },
+    {
+      "name": "熊的回忆季",
+      "file": "音-熊的回忆季.bds",
+      "thumb": "音-熊的回忆季.bds_py_26_light_thumb.png",
+      "full": "音-熊的回忆季.bds_py_26_light.png"
+    },
+    {
+      "name": "音の冬季约定",
+      "file": "音の冬季约定彩底.bds",
+      "thumb": "音の冬季约定彩底.bds_py_26_light_thumb.png",
+      "full": "音の冬季约定彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "萌萌妹宝",
+      "file": "音的萌萌妹宝.bds",
+      "thumb": "音的萌萌妹宝.bds_py_26_light_thumb.png",
+      "full": "音的萌萌妹宝.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの记忆存鱼档闷.bds",
+      "thumb": "Xpiの记忆存鱼档闷.bds_py_26_light_thumb.png",
+      "full": "Xpiの记忆存鱼档闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの纯洁天使.bds",
+      "thumb": "Xpiの纯洁天使.bds_py_26_light_thumb.png",
+      "full": "Xpiの纯洁天使.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの蘸酱狗.bds",
+      "thumb": "Xpiの蘸酱狗.bds_py_26_light_thumb.png",
+      "full": "Xpiの蘸酱狗.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの记忆存鱼档脆.bds",
+      "thumb": "Xpiの记忆存鱼档脆.bds_py_26_light_thumb.png",
+      "full": "Xpiの记忆存鱼档脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの灰色心情.bds",
+      "thumb": "Xpiの灰色心情.bds_py_26_light_thumb.png",
+      "full": "Xpiの灰色心情.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの玉桂狗彩.bds",
+      "thumb": "Xpiの玉桂狗彩.bds_py_26_light_thumb.png",
+      "full": "Xpiの玉桂狗彩.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの熊猫头脆.bds",
+      "thumb": "Xpiの熊猫头脆.bds_py_26_light_thumb.png",
+      "full": "Xpiの熊猫头脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの简简灰.bds",
+      "thumb": "Xpiの简简灰.bds_py_26_light_thumb.png",
+      "full": "Xpiの简简灰.bds_py_26_light.png"
     }
   ]
 }

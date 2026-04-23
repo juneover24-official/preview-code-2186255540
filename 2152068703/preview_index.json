@@ -1,86 +1,8 @@
 {
   "qq_number": "2186255540",
   "group_number": "2152068703",
-  "updated_at": "2026-04-22T16:19:47.299671",
+  "updated_at": "2026-04-23T15:52:39.101559",
   "skins": [
-    {
-      "name": "蛋挞の我这呆萌的一生",
-      "file": "我这呆萌的一生.bds",
-      "thumb": "我这呆萌的一生.bds_py_26_light_thumb.png",
-      "full": "我这呆萌的一生.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "未知脆.bds",
-      "thumb": "未知脆.bds_py_26_light_thumb.png",
-      "full": "未知脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "未知.bds",
-      "thumb": "未知.bds_py_26_light_thumb.png",
-      "full": "未知.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "雾林闷.bds",
-      "thumb": "雾林闷.bds_py_26_light_thumb.png",
-      "full": "雾林闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蛋挞の我这呆萌的一生",
-      "file": "我这呆萌的一生脆音.bds",
-      "thumb": "我这呆萌的一生脆音.bds_py_26_light_thumb.png",
-      "full": "我这呆萌的一生脆音.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "雾林脆.bds",
-      "thumb": "雾林脆.bds_py_26_light_thumb.png",
-      "full": "雾林脆.bds_py_26_light.png"
-    },
-    {
-      "name": "青森物语",
-      "file": "青森物语脆.bds",
-      "thumb": "青森物语脆.bds_py_26_light_thumb.png",
-      "full": "青森物语脆.bds_py_26_light.png"
-    },
-    {
-      "name": "灰色止痛剂",
-      "file": "灰色止痛剂闷.bds",
-      "thumb": "灰色止痛剂闷.bds_py_26_light_thumb.png",
-      "full": "灰色止痛剂闷.bds_py_26_light.png"
-    },
-    {
-      "name": "青森物语",
-      "file": "青森物语闷.bds",
-      "thumb": "青森物语闷.bds_py_26_light_thumb.png",
-      "full": "青森物语闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "甜点工坊.bds",
-      "thumb": "甜点工坊.bds_py_26_light_thumb.png",
-      "full": "甜点工坊.bds_py_26_light.png"
-    },
-    {
-      "name": "灰色止痛剂",
-      "file": "灰色止痛剂.bds",
-      "thumb": "灰色止痛剂.bds_py_26_light_thumb.png",
-      "full": "灰色止痛剂.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "甜点工坊脆.bds",
-      "thumb": "甜点工坊脆.bds_py_26_light_thumb.png",
-      "full": "甜点工坊脆.bds_py_26_light.png"
-    },
-    {
-      "name": "月祈",
-      "file": "月祈.bds",
-      "thumb": "月祈.bds_py_26_light_thumb.png",
-      "full": "月祈.bds_py_26_light.png"
-    },
     {
       "name": "蛋挞の我这呆萌的一生",
       "file": "我这呆萌的一生.bdi",
@@ -158,6 +80,84 @@
       "file": "青森物语脆.bdi",
       "thumb": "青森物语脆.bdi_py_26_light_thumb.png",
       "full": "青森物语脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "蛋挞の我这呆萌的一生",
+      "file": "我这呆萌的一生.bds",
+      "thumb": "我这呆萌的一生.bds_py_26_light_thumb.png",
+      "full": "我这呆萌的一生.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "未知脆.bds",
+      "thumb": "未知脆.bds_py_26_light_thumb.png",
+      "full": "未知脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "未知.bds",
+      "thumb": "未知.bds_py_26_light_thumb.png",
+      "full": "未知.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "雾林闷.bds",
+      "thumb": "雾林闷.bds_py_26_light_thumb.png",
+      "full": "雾林闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蛋挞の我这呆萌的一生",
+      "file": "我这呆萌的一生脆音.bds",
+      "thumb": "我这呆萌的一生脆音.bds_py_26_light_thumb.png",
+      "full": "我这呆萌的一生脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "雾林脆.bds",
+      "thumb": "雾林脆.bds_py_26_light_thumb.png",
+      "full": "雾林脆.bds_py_26_light.png"
+    },
+    {
+      "name": "青森物语",
+      "file": "青森物语脆.bds",
+      "thumb": "青森物语脆.bds_py_26_light_thumb.png",
+      "full": "青森物语脆.bds_py_26_light.png"
+    },
+    {
+      "name": "灰色止痛剂",
+      "file": "灰色止痛剂闷.bds",
+      "thumb": "灰色止痛剂闷.bds_py_26_light_thumb.png",
+      "full": "灰色止痛剂闷.bds_py_26_light.png"
+    },
+    {
+      "name": "青森物语",
+      "file": "青森物语闷.bds",
+      "thumb": "青森物语闷.bds_py_26_light_thumb.png",
+      "full": "青森物语闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "甜点工坊.bds",
+      "thumb": "甜点工坊.bds_py_26_light_thumb.png",
+      "full": "甜点工坊.bds_py_26_light.png"
+    },
+    {
+      "name": "灰色止痛剂",
+      "file": "灰色止痛剂.bds",
+      "thumb": "灰色止痛剂.bds_py_26_light_thumb.png",
+      "full": "灰色止痛剂.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "甜点工坊脆.bds",
+      "thumb": "甜点工坊脆.bds_py_26_light_thumb.png",
+      "full": "甜点工坊脆.bds_py_26_light.png"
+    },
+    {
+      "name": "月祈",
+      "file": "月祈.bds",
+      "thumb": "月祈.bds_py_26_light_thumb.png",
+      "full": "月祈.bds_py_26_light.png"
     }
   ]
 }

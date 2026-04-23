@@ -1,25 +1,13 @@
 {
   "qq_number": "2186255540",
   "group_number": "734761422",
-  "updated_at": "2026-04-22T16:19:42.129948",
+  "updated_at": "2026-04-23T15:52:38.950224",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
-      "file": "张元英.bds",
-      "thumb": "张元英.bds_py_26_light_thumb.png",
-      "full": "张元英.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "迪丽热巴.bds",
-      "thumb": "迪丽热巴.bds_py_26_light_thumb.png",
-      "full": "迪丽热巴.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの极简灰.bds",
-      "thumb": "Xpiの极简灰.bds_py_26_light_thumb.png",
-      "full": "Xpiの极简灰.bds_py_26_light.png"
+      "file": "赵丽颖.bdi",
+      "thumb": "赵丽颖.bdi_py_26_light_thumb.png",
+      "full": "赵丽颖.bdi_py_26_light.png"
     },
     {
       "name": "乐妍贴纸底包1",
@@ -38,6 +26,30 @@
       "file": "迪丽热巴.bdi",
       "thumb": "迪丽热巴.bdi_py_26_light_thumb.png",
       "full": "迪丽热巴.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "赵丽颖.bds",
+      "thumb": "赵丽颖.bds_py_26_light_thumb.png",
+      "full": "赵丽颖.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "张元英.bds",
+      "thumb": "张元英.bds_py_26_light_thumb.png",
+      "full": "张元英.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "迪丽热巴.bds",
+      "thumb": "迪丽热巴.bds_py_26_light_thumb.png",
+      "full": "迪丽热巴.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの极简灰.bds",
+      "thumb": "Xpiの极简灰.bds_py_26_light_thumb.png",
+      "full": "Xpiの极简灰.bds_py_26_light.png"
     }
   ]
 }

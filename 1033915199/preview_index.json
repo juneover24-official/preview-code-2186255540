@@ -1,20 +1,8 @@
 {
   "qq_number": "2186255540",
   "group_number": "1033915199",
-  "updated_at": "2026-04-22T16:19:21.665684",
+  "updated_at": "2026-04-23T15:52:38.400561",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの原生iOS闷.bds",
-      "thumb": "Xpiの原生iOS闷.bds_py_26_light_thumb.png",
-      "full": "Xpiの原生iOS闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "Xpiの原生iOS脆.bds",
-      "thumb": "Xpiの原生iOS脆.bds_py_26_light_thumb.png",
-      "full": "Xpiの原生iOS脆.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "Xpiの原生iOS闷.bdi",
@@ -26,6 +14,18 @@
       "file": "Xpiの原生iOS脆.bdi",
       "thumb": "Xpiの原生iOS脆.bdi_py_26_light_thumb.png",
       "full": "Xpiの原生iOS脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの原生iOS闷.bds",
+      "thumb": "Xpiの原生iOS闷.bds_py_26_light_thumb.png",
+      "full": "Xpiの原生iOS闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Xpiの原生iOS脆.bds",
+      "thumb": "Xpiの原生iOS脆.bds_py_26_light_thumb.png",
+      "full": "Xpiの原生iOS脆.bds_py_26_light.png"
     }
   ]
 }
