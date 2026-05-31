@@ -1,7 +1,7 @@
 {
   "qq_number": "2186255540",
   "group_number": "1087161404",
-  "updated_at": "2026-04-23T15:52:37.829771",
+  "updated_at": "2026-05-31T10:51:12+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -26,6 +26,12 @@
       "file": "Xpiの原生iOS脆.bds",
       "thumb": "Xpiの原生iOS脆.bds_py_26_light_thumb.png",
       "full": "Xpiの原生iOS脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "豹纹性感妹闷.bdi",
+      "thumb": "豹纹性感妹闷.bdi_py_26_light_thumb.png",
+      "full": "豹纹性感妹闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
