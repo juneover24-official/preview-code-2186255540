@@ -1,7 +1,7 @@
 {
   "qq_number": "2186255540",
   "group_number": "2152068703",
-  "updated_at": "2026-06-15T19:55:44+00:00",
+  "updated_at": "2026-06-15T19:56:21+00:00",
   "skins": [
     {
       "name": "蛋挞の我这呆萌的一生",
@@ -212,6 +212,12 @@
       "file": "记事簿.bdi",
       "thumb": "记事簿.bdi_py_26_light_thumb.png",
       "full": "记事簿.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "简约闷",
+      "file": "简约闷.bdi",
+      "thumb": "简约闷.bdi_py_26_light_thumb.png",
+      "full": "简约闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
