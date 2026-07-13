@@ -1,7 +1,7 @@
 {
   "qq_number": "2186255540",
   "group_number": "734761422",
-  "updated_at": "2026-04-23T15:52:38.950224",
+  "updated_at": "2026-07-13T13:13:29+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -50,6 +50,12 @@
       "file": "Xpiの极简灰.bds",
       "thumb": "Xpiの极简灰.bds_py_26_light_thumb.png",
       "full": "Xpiの极简灰.bds_py_26_light.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "雾心一.bds",
+      "thumb": "雾心一.bds_py_26_light_thumb.png",
+      "full": "雾心一.bds_py_26_light_thumb.png"
     }
   ]
 }
