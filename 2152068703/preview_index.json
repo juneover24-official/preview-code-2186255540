@@ -1,7 +1,7 @@
 {
   "qq_number": "2186255540",
   "group_number": "2152068703",
-  "updated_at": "2026-07-17T08:06:09+00:00",
+  "updated_at": "2026-07-22T14:45:01+00:00",
   "skins": [
     {
       "name": "蛋挞の我这呆萌的一生",
@@ -224,6 +224,12 @@
       "file": "后悔项.bds",
       "thumb": "后悔项.bds_py_26_light_thumb.png",
       "full": "后悔项.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蛋挞の后悔项",
+      "file": "后悔项2.bds",
+      "thumb": "后悔项2.bds_py_26_light_thumb.png",
+      "full": "后悔项2.bds_py_26_light_thumb.png"
     }
   ]
 }
