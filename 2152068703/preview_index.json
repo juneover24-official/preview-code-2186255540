@@ -1,7 +1,7 @@
 {
   "qq_number": "2186255540",
   "group_number": "2152068703",
-  "updated_at": "2026-10-06T11:07:45+00:00",
+  "updated_at": "2026-10-06T11:08:16+00:00",
   "skins": [
     {
       "name": "蛋挞の我这呆萌的一生",
@@ -279,6 +279,13 @@
       "thumb": "故障闷.bds_py_26_light_thumb.png",
       "full": "故障闷.bds_py_26_light_thumb.png",
       "file_id": "9bc512a1024cfcf0329d003acd250675"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "故障.bds",
+      "thumb": "故障.bds_py_26_light_thumb.png",
+      "full": "故障.bds_py_26_light_thumb.png",
+      "file_id": "3339b371ccc64f9d5fbc6d5c2cbbc182"
     }
   ]
 }
